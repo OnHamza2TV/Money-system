@@ -1,0 +1,11 @@
+{
+
+    "token": "TOKEN",
+    "owner": "ID OWNER",
+
+    "prefix": "PREFIX BOT",
+    "version": "VERSION (BASIC 1.0.0)", 
+    
+    "game": "GAME"
+
+}

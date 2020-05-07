@@ -7,8 +7,6 @@ const config = require ('./config/config.json') //look for the configuration fil
 
 client.login(config.token); //login
 
-
-
 client.on('ready', () => { //when the client is ready
   
 console.log('[LOGS] I am ready.'); //sends a message when the bot is turned on in the console

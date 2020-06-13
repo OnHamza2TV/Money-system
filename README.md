@@ -14,7 +14,7 @@ And enter the information to design the `package.json` and `package-lock.json` f
 Install the modules :
 
 ```
-npm i Discord.js
+npm i discord.js
 npm i fs
 npm i parse-ms
 npm i quick.db
